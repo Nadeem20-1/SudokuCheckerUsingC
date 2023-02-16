@@ -1,0 +1,3 @@
+/Users/nadeemee/Documents/Written Work/Semester 4.1/C Data Structure/Projects/NadeemRashidAssign1/cmake-build-debug/CMakeFiles/NadeemRashidAssign1.dir
+/Users/nadeemee/Documents/Written Work/Semester 4.1/C Data Structure/Projects/NadeemRashidAssign1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nadeemee/Documents/Written Work/Semester 4.1/C Data Structure/Projects/NadeemRashidAssign1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

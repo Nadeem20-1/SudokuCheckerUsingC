@@ -1,0 +1,7 @@
+# ninja log v5
+1	252	1655136563578793527	CMakeFiles/NadeemRashidAssign1.dir/array_func.c.o	45d19fa70455e9d4
+245	286	1655136635163591705	NadeemRashidAssign1	2cd0f1d67be9459e
+1	245	1655136635120640269	CMakeFiles/NadeemRashidAssign1.dir/main.c.o	6122d276be049689
+0	229	1675828267023258975	CMakeFiles/NadeemRashidAssign1.dir/main.c.o	4c769e271ba52417
+0	230	1675828267023804377	CMakeFiles/NadeemRashidAssign1.dir/array_func.c.o	91a21cd675bd5f0
+230	277	1675828267071696116	NadeemRashidAssign1	c2598a82fceb3c15
